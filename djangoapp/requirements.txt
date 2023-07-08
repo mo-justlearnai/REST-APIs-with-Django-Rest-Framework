@@ -1,0 +1,13 @@
+alembic==1.10.2
+cryptography==40.0.2
+databricks-cli==0.17.6
+djangorestframework==3.14.0
+docker==6.0.1
+entrypoints==0.4
+firebase-admin==6.1.0
+GitPython==3.1.31
+grpcio-status==1.54.0
+Markdown==3.4.3
+matplotlib==3.7.1
+pyarrow==11.0.0
+shap==0.41.0
